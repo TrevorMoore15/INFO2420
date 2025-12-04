@@ -128,3 +128,51 @@
       font-size: xx-large; 
       font-family: 'Fancy'; 
     }
+    nav {
+      width: 30%;
+      float:left;
+      height: 100%;
+    }
+    nav a{
+      border: 1px solid #304D75;
+      background-color: white;
+    }
+    section{
+      width: 900px;
+      background-image: url('../../Images_and_resources/background2.png');
+      background-repeat: repeat-y;
+    }
+    article{
+      width: 800px;
+    }
+    #thumbs, #image {
+		width: 700px;
+		text-align: center;
+		margin: 0 auto 0 auto;
+		color: #000;
+    padding-left: 30%;
+	}
+
+	#thumbs {
+		margin-top: 10px;
+    display:inline-block
+	}
+
+			
+	#thumbs img {
+		border: solid 1px #000;
+		margin: 5px;
+	}
+
+	#image{
+		height:500px;
+	}
+footer{
+  width: 900px;
+  background-color: #CC6769;
+  color: black;
+  height: 50px;
+  text-align: center;
+  font-style: italic;
+}
+
