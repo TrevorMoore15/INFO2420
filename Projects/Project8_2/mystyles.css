@@ -28,10 +28,11 @@
         border: dashed #B13E41;
         padding: 10px 
     }
-    img{
-        padding-left: 25px;
-        padding-right: 25px;
-    }
+    header img {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
     h1 
     {
         font-family:'Fancy';
